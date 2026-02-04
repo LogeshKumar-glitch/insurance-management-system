@@ -41,7 +41,8 @@ function CustomerClaims() {
           <div className="claim-card" key={c.id}>
 
             {/* 👇 IMAGE GOES HERE */}
-            <img src={c.image} alt="Claim" />
+            <img src={c.image || "/1.jpg"} alt="Claim" />
+
 
             <h4>{c.policyName}</h4>
             <p>Amount: ₹{c.amount}</p>
