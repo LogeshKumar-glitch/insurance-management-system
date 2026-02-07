@@ -9,7 +9,7 @@ This is a **frontend-focused project** with mocked authentication for demo purpo
 
 ## 🚀 Live Demo
 
-👉 https://your-app-name.netlify.app
+👉 https://insurance-management-system-291x.vercel.app
 
 ## 📂 GitHub Repository
 
